@@ -1,0 +1,37 @@
+# Zvanični Unity .gitignore šablon
+
+/[Ll]ibrary/
+/[尝]ogs/
+/[U]serSettings/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Cc]onfig/
+/[Mm]emoryCaptures/
+
+# Skriveni fajlovi koje pravi operativni sistem
+.DS_Store
+Thumbs.db
+
+# Ekstenzije koje prate Visual Studio i privremene fajlove projekta
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.asset2a
+
+# Crash logs
+sysinfo.txt
+
+# Građenje projekata (ako praviš build unutar projekta)
+/[Bb]uild/
+/[Builds]/
+
+# Autogenerisani Android fajlovi
+/[A]sset[B]undles/
