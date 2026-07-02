@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Soffistef.Kocka.Editor.csproj" />
+  <Project Path="Soffistef.Kocka.csproj" />
+  <Project Path="Soffistef.Kocka.Editor.Tests.csproj" />
+  <Project Path="Soffistef.Kocka.Tests.csproj" />
+</Solution>
