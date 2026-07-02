@@ -1,0 +1,11 @@
+{
+    "name": "Soffistef.Kocka.Tests",
+    "references": [
+        "Soffistef.Kocka"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

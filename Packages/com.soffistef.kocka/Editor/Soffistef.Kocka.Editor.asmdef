@@ -1,0 +1,10 @@
+{
+    "name": "Soffistef.Kocka.Editor",
+    "references": [
+      "Soffistef.Kocka"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

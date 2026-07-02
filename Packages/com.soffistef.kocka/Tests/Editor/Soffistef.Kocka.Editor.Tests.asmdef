@@ -1,0 +1,14 @@
+{
+    "name": "Soffistef.Kocka.Editor.Tests",
+    "references": [
+        "Soffistef.Kocka.Editor",
+        "Soffistef.Kocka"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
